@@ -8,4 +8,11 @@ https://javascript.info/
 https://www.w3.org/
 https://www.youtube.com/
 https://github.com/
+https://docs.aws.amazon.com/
+https://docs.python.org/3/tutorial/
+
+
+NEWS -
+https://dev.to/
+https://news.ycombinator.com/
 
