@@ -1,0 +1,11 @@
+Technology Roadmap - https://javascript.plainenglish.io/the-complete-full-stack-web-developer-roadmap-2021-7495b4ae59ac
+
+REFERENCES -
+https://developer.mozilla.org/en-US/
+https://eloquentjavascript.net/
+https://stackoverflow.com/
+https://javascript.info/
+https://www.w3.org/
+https://www.youtube.com/
+https://github.com/
+
